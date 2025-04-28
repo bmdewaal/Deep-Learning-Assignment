@@ -5,3 +5,4 @@ os
 pandas
 DataSet
 DataLoader
+torch_directml
