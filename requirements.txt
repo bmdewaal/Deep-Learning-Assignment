@@ -6,3 +6,4 @@ pandas
 DataSet
 DataLoader
 torch_directml
+pandas
