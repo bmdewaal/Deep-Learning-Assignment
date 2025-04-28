@@ -1,2 +1,7 @@
 torch
 numpy
+torchaudio
+os
+pandas
+DataSet
+DataLoader
